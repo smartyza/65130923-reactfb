@@ -10,7 +10,7 @@ import Common from "./common";
 const BASE_URL = Common.API_URL;
 export default class report extends Component {
   state = {
-    zipcode: 10600,
+    zipcode: 11110,
     amphur_code: 0,
     amphur_name: "",
     province_code: 0,
