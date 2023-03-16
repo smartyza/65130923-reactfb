@@ -4,7 +4,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import axios from "axios";
 
-const API_FROM_RECDER = "https://six5130896-api-node-lab.onrender.com";
+const API_FROM_RECDER = "https://six5130923-node-api.onrender.com";
 export default class Product extends Component {
   state = {
     data: [],
